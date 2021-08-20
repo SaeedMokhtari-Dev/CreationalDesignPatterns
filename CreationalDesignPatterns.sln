@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticFactoryMethod", "StaticFactoryMethod\StaticFactoryMethod.csproj", "{8D4C7940-6CB3-43A4-8231-867CD876531D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticFactoryMethod.Tests", "StaticFactoryMethod.Tests\StaticFactoryMethod.Tests.csproj", "{313723D3-1AC5-4F4D-A255-6FBB2D1E12CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D4C7940-6CB3-43A4-8231-867CD876531D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D4C7940-6CB3-43A4-8231-867CD876531D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D4C7940-6CB3-43A4-8231-867CD876531D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D4C7940-6CB3-43A4-8231-867CD876531D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{313723D3-1AC5-4F4D-A255-6FBB2D1E12CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{313723D3-1AC5-4F4D-A255-6FBB2D1E12CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{313723D3-1AC5-4F4D-A255-6FBB2D1E12CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{313723D3-1AC5-4F4D-A255-6FBB2D1E12CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
